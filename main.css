@@ -1,27 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-     <title> palindrome Tester</title>
-    <meta charset="utf-8">
-    <script src="deck.js"> </script>
-    <script src = "extend.js"> </script>
-    <link rel="stylesheet" href="main.css">
+.wrapper div {
+  border: 5px solid red;
+  width: 150px;
+  height: 140px;
+  float: left;
+  margin: 10px;
+  text-align: center;
 
-  </head>
-   <body>
-
-     <h1 id ="header">palindrome Tester</h1>
-
-     <div id= "maindiv" class="wrapper">
-       <div class="for"> </div>
-       <div class ="for"></div>
-       <div class ="for"></div>
-       <div class ="for"> </div>
-     </div>
-
-
-
-
-
- </body>
-</html>
+}
