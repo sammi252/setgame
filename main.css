@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title> palindrome Tester</title>
+    <meta charset="utf-8">
+    <script src="deck.js"> </script>
+    <script src = "extend.js"> </script>
+    <link rel="stylesheet" href="main.css">
+
+  </head>
+   <body>
+
+     <h1 id ="header">palindrome Tester</h1>
+
+     <div id= "maindiv" class="wrapper">
+       <div class="for"> </div>
+       <div class ="for"></div>
+       <div class ="for"></div>
+       <div class ="for"> </div>
+     </div>
+
+
+
+
+
+ </body>
+</html>
